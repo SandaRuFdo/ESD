@@ -5,7 +5,9 @@ Welcome to SLIIT kitchen
 Kheer
 Pasta
 Chicken Fry
-
+ 
+Beans
+Pizza 
 
 
 Thank You :)
